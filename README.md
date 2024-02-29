@@ -41,7 +41,7 @@ Outro aprendizado foi a estrutura de pastas, que possui a seguinte estrutura bas
 Com a finalidade de aprendizado, eu criei um novo componente e exibi na tela junto com os outros que o artigo inclui. Portanto, para criar um novo componente, utilizei o comando `ng generate example-component` e depois disso, criei um html simples que inclui uma uma imagem e dois textos. Depois disso, copiei o selector do componente criado e adicionei no template do `app.component.ts`.
 
 <p align="center">
-  <img width="50%" src="https://github.com/vict0rcarvalh0/Angular-Page/blob/main/assets/angular3.png">
+  <img width="80%" src="https://github.com/vict0rcarvalh0/Angular-Page/blob/main/assets/angular3.png">
 </p>
 
 O resultado foi esse:
