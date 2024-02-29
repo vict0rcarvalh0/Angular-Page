@@ -3,7 +3,7 @@ import {AsyncPipe} from '@angular/common';
 
 import {DynamicFormComponent} from './components/dynamic-form/dynamic-form.component';
 
-import {QuestionService} from './components/services/question.service';
+import {QuestionService} from './services/question.service';
 import {QuestionBase} from './question-base';
 import {Observable} from 'rxjs';
 

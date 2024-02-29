@@ -5,7 +5,7 @@ import {FormGroup, ReactiveFormsModule} from '@angular/forms';
 import {DynamicFormQuestionComponent} from '../dynamic-form-question/dynamic-form-question.component';
 
 import {QuestionBase} from '../../question-base';
-import {QuestionControlService} from '../services/question-control.service';
+import {QuestionControlService} from '../../services/question-control.service';
 
 @Component({
   standalone: true,
