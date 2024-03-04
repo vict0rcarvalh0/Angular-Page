@@ -11,7 +11,18 @@ Rodando a aplicação por meio do comando `ng serve` e abrindo a aplicação na 
   <img width="50%" src="https://github.com/vict0rcarvalh0/Angular-Page/blob/main/assets/angular2.png">
 </p>
 
+## Tecnologias utilizadas
+- AngularJS
+- Typescript
+- Html
+
 ## Aprendizados
+### Single Page Application
+Um SPA (Single Page Application) é um tipo de aplicação web que opera em uma única página, fornecendo uma experiência de usuário mais fluida, sem a necessidade de recarregar a página inteira durante a navegação. Isso é possível graças ao uso de tecnologias como o Angular.
+
+AngularJS é um framework JavaScript desenvolvido pelo Google, utilizado para construir aplicativos web dinâmicos e interativos. Ele permite a criação de SPAs de forma eficiente, fornecendo estrutura e funcionalidades para o desenvolvimento front-end. Com AngularJS, podemos podem definir modelos de dados e comportamentos da aplicação em HTML, usando diretivas que estendem a sintaxe da linguagem.
+
+
 ### Uso da CLI do Angular
 Aprendi que a CLI(Command Line Interface) do Angular oferece diversas features que facilitam o desenvolvimento, como o `ng new <projeto>` que foi o comando que utilizei ao iniciar o desenvolvimento do código, que cria e configura um projeto Angular básico dentro de uma pasta com o nome definido no comando. Outro comando que obtive o conhecimento foi o `ng generate component exemplo`, que cria os arquivos necessários para a criação de um componente, dentro de uma pasta, incluindo o HTML, CSS e TS, de forma que atualiza automaticamente o app.module para conectar o componente a aplicação com maior facilidade. Aprendi também o comando `ng serve`, que é um comando para iniciar a aplicação localmente e o `ng build`, que compila a aplicação para um ambiente de produção e insere os arquivos compilados em um diretório "dist" no projeto.
 
